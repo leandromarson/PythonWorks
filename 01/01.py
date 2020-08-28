@@ -1,0 +1,11 @@
+print('Ola world!')
+print('Puluca lua')
+print('AAAAAAAAA')
+print('weeeeeeeeeeeooa\n')
+print(299202030232+20303203032)
+print('1'+'2')
+
+nome = input('Your name: ')
+idade = input('Your idade: ')
+peso = input('Your peso: ')
+print(nome, idade, peso)
