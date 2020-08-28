@@ -1,0 +1,6 @@
+n = input('Digite algo: ')
+print("Numereric: ", n.isnumeric())
+print("Alpha: ", n.isalpha())
+print("AlphaNum: ", n.isalnum())
+print("Upper: ", n.isupper())
+print("Lower: ", n.islower())
